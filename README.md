@@ -1,0 +1,1 @@
+#This is a math clock!!! not a traditional clock so in order to run the program we first ensure we run it on a clean virtual environment giving commands: python -m venv myenv    AND   myenv\scripts\activate  then we run the program as ususal I have a video on issues folder.
